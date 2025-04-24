@@ -1,5 +1,4 @@
 from setuptools import setup
-
 setup(
     name='tools',
     version='1.0',
