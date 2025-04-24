@@ -7,6 +7,6 @@ setup(
     author='Sam Owens',
     author_email='sowens28@tjs.org',
     packages=['tools'],
-    package_dir={'tools': 'Users/sowen/Python Files'},
+    package_dir={'tools': 'Users/sowens/Python Files'},
     install_requires=['setuptools', 'wheel']
 )
