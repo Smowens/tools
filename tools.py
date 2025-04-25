@@ -1,1 +1,3 @@
-import Percent_Calc
+def Import()
+  import Percent_Calc
+  return
