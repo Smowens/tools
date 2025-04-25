@@ -1,7 +1,7 @@
 from setuptools import setup
 setup(
     name='tools',
-    version='1.1',
+    version='1.0',
     description="Sam's Tool Module",
     author='Sam Owens',
     author_email='sowens28@tjs.org',
