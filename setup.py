@@ -5,6 +5,7 @@ setup(
     description="Sam's Tool Module",
     author='Sam Owens',
     author_email='sowens28@tjs.org',
-    py_modules=['tools','setup'],
+    py_modules=['setup'],
+    packages=['tools'],
     install_requires=['setuptools', 'wheel']
 )
