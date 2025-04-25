@@ -20,7 +20,7 @@ def fibo(x):
 	b=1
 	fibo=[]
 	while v<x:
-		fibo.append
+		fibo.append(a)
 		a,b=b,a+b
 		v=v+1
 	return fibo
