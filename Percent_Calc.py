@@ -1,4 +1,4 @@
-def Percent_Calc(data)
+def Percent_Calc(data):
 	total = sum(data)
 	result = {}
 	result_unformatted={}
