@@ -14,3 +14,14 @@ def Percent_Calc(data):
 	result_lastkey=list(result.keys())[-1]
 	del result[result_lastkey]
 	return result
+def fibo(x):
+	v=0
+	a=0
+	b=1
+	fibo=[]
+	while v<x:
+		fibo.append
+		a,b=b,a+b
+		v=v+1
+	return fibo
+	
